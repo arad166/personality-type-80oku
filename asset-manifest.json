@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/seikaku-type-80oku/static/css/main.120bd8e6.css",
-    "main.js": "/seikaku-type-80oku/static/js/main.aa618daf.js",
-    "static/js/453.dee1e159.chunk.js": "/seikaku-type-80oku/static/js/453.dee1e159.chunk.js",
-    "index.html": "/seikaku-type-80oku/index.html",
-    "main.120bd8e6.css.map": "/seikaku-type-80oku/static/css/main.120bd8e6.css.map",
-    "main.aa618daf.js.map": "/seikaku-type-80oku/static/js/main.aa618daf.js.map",
-    "453.dee1e159.chunk.js.map": "/seikaku-type-80oku/static/js/453.dee1e159.chunk.js.map"
+    "main.css": "/personality-type-80oku/static/css/main.120bd8e6.css",
+    "main.js": "/personality-type-80oku/static/js/main.f572bb9e.js",
+    "static/js/453.dee1e159.chunk.js": "/personality-type-80oku/static/js/453.dee1e159.chunk.js",
+    "index.html": "/personality-type-80oku/index.html",
+    "main.120bd8e6.css.map": "/personality-type-80oku/static/css/main.120bd8e6.css.map",
+    "main.f572bb9e.js.map": "/personality-type-80oku/static/js/main.f572bb9e.js.map",
+    "453.dee1e159.chunk.js.map": "/personality-type-80oku/static/js/453.dee1e159.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.120bd8e6.css",
-    "static/js/main.aa618daf.js"
+    "static/js/main.f572bb9e.js"
   ]
 }
