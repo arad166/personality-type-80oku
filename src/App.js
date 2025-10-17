@@ -99,7 +99,8 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-  <h1>Personality Type 80億</h1>
+      <h1>Personality Type 80億</h1>
+      <p className="subtitle">超当たる性格診断です。質問に対する回答からあなたのパーソナリティを診断します。</p>
 
         <form className="quiz-form" onSubmit={handleSubmit}>
           <label>

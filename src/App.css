@@ -24,6 +24,8 @@
   color: white;
 }
 
+.subtitle { margin-top: 8px; color: #d9f6ff; font-size: 18px; }
+
 .App-link {
   color: #61dafb;
 }
