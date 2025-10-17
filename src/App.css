@@ -28,6 +28,94 @@
   color: #61dafb;
 }
 
+/* Questionnaire styles */
+.quiz-form {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  width: 90%;
+  max-width: 520px;
+  margin-top: 20px;
+}
+
+.quiz-form label {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  text-align: left;
+  font-size: 16px;
+}
+
+.quiz-form input[type="text"] {
+  margin-top: 6px;
+  padding: 10px 12px;
+  border-radius: 6px;
+  border: 1px solid rgba(255,255,255,0.15);
+  background: rgba(255,255,255,0.03);
+  color: #fff;
+}
+
+.quiz-form .buttons {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  margin-top: 6px;
+}
+
+.quiz-form .buttons .secondary { background: transparent; }
+
+.quiz-form button {
+  padding: 10px 16px;
+  border-radius: 8px;
+  border: none;
+  cursor: pointer;
+  font-weight: 600;
+}
+
+.quiz-form button:hover { opacity: 0.95; }
+
+.quiz-form button.secondary {
+  background: transparent;
+  color: #61dafb;
+  border: 1px solid rgba(97,218,251,0.2);
+}
+
+.quiz-form button[type="submit"] {
+  background: #61dafb;
+  color: #09202a;
+}
+
+.result {
+  margin-top: 24px;
+  background: rgba(255,255,255,0.04);
+  padding: 16px 20px;
+  border-radius: 8px;
+  max-width: 640px;
+}
+
+.result p { margin: 6px 0; font-size: 18px; }
+
+.share-area { margin-top: 12px; }
+.share-label { margin: 6px 0; color: #bfefff; }
+.share-buttons { display: flex; gap: 8px; justify-content: center; flex-wrap: wrap; }
+.share-buttons .share-btn {
+  padding: 8px 12px;
+  border-radius: 6px;
+  border: none;
+  cursor: pointer;
+  text-decoration: none;
+  color: #09202a;
+  background: #61dafb;
+  font-weight: 600;
+  font-size: 14px; /* 統一フォントサイズ */
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+.share-buttons .share-btn:hover { opacity: 0.95; }
+
+.loading { font-style: italic; color: #bfefff; }
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
