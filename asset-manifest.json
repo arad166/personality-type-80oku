@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/personality-type-80oku/static/css/main.120bd8e6.css",
-    "main.js": "/personality-type-80oku/static/js/main.f572bb9e.js",
+    "main.css": "/personality-type-80oku/static/css/main.7dd7cbc1.css",
+    "main.js": "/personality-type-80oku/static/js/main.f8b67652.js",
     "static/js/453.dee1e159.chunk.js": "/personality-type-80oku/static/js/453.dee1e159.chunk.js",
     "index.html": "/personality-type-80oku/index.html",
-    "main.120bd8e6.css.map": "/personality-type-80oku/static/css/main.120bd8e6.css.map",
-    "main.f572bb9e.js.map": "/personality-type-80oku/static/js/main.f572bb9e.js.map",
+    "main.7dd7cbc1.css.map": "/personality-type-80oku/static/css/main.7dd7cbc1.css.map",
+    "main.f8b67652.js.map": "/personality-type-80oku/static/js/main.f8b67652.js.map",
     "453.dee1e159.chunk.js.map": "/personality-type-80oku/static/js/453.dee1e159.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.120bd8e6.css",
-    "static/js/main.f572bb9e.js"
+    "static/css/main.7dd7cbc1.css",
+    "static/js/main.f8b67652.js"
   ]
 }
